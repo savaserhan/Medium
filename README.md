@@ -1,2 +1,2 @@
 # Medium
-I designed "Medium" website for my Patika.com courese.
+I designed the "Medium" website for my Patika.com course.
