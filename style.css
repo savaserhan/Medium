@@ -1,0 +1,72 @@
+
+body{
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+   
+}
+
+
+
+.bg-yellow {
+    background-color: #FFC017; 
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.display-1 {
+    
+letter-spacing: -0.05em;
+line-height: 95px;
+font-size: 106px;
+color: #000000;
+font-feature-settings: 'pnum' on, 'lnum' on;
+font-family: t-super, Georgia, Cambria, "Times New Roman", Times, serif;
+font-weight: 400;
+padding-top:85px;
+
+}
+
+
+.p1{
+    
+    line-height: 24px;
+    color: #242424;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    margin: 0;
+    box-sizing: inherit;
+    display: block;
+    font-size: 23px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    margin-bottom:50px;
+
+
+}
+
+.special-letter {
+   
+
+    display: inline-block;
+    margin-left: 65px;
+}
+.btn-dark{
+    
+    border-radius: 31px; 
+    font-size: 20px;
+
+}
+
+.aside-buttons {
+    margin-bottom:10px;
+}
+
+.navbar-brand {
+    margin-left:55px;
+    margin-top:10px;
+    font-family: medium-content-sans-serif-font, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
